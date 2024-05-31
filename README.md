@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm keshav</h1>
 <h3 align="center">Aspiring full-stack web developer with hands-on experience in web development</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavkoli55&label=Profile%20views&color=0e75b6&style=flat" alt="keshavkoli55" /> </p>
 
 
